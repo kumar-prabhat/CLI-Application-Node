@@ -1,0 +1,103 @@
+[
+    {
+        "componentName": "Frame",
+        "assemblyPrice": 200,
+        "subComponents":[
+            {
+                "type": "Rod",
+                "name": "Aluminum",
+                "price": 85
+            },
+            {
+                "type": "Design",
+                "name": "Flat",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "componentName": "Seat",
+        "assemblyPrice": 80,
+        "subComponents":[
+            {
+                "type": "Material",
+                "name": "Leather",
+                "price": 70
+            },
+            {
+                "type": "Spring",
+                "name": "Stainless Steel",
+                "price": 40
+            }
+        ]
+    },
+    {
+        "componentName": "Wheel",
+        "assemblyPrice": 300,
+        "subComponents":[
+            {
+                "type": "Spoke",
+                "name": "Straight Gauge",
+                "price": 60
+            },
+            {
+                "type": "Rim",
+                "name": "Aluminium",
+                "price": 90
+            },
+            {
+                "type": "Tube",
+                "name": "Schrader",
+                "price": 70
+            },
+            {
+                "type": "Tyre",
+                "name": "Tubeless",
+                "price": 120
+            }
+        ]
+    },
+    {
+        "componentName": "Handlebar",
+        "assemblyPrice": 200,
+        "subComponents":[
+            {
+                "type": "Brake Levers",
+                "name": "V-brake",
+                "price": 105
+            },
+            {
+                "type": "Ring bell",
+                "name": "Round Stainless Steel",
+                "price": 40
+            }
+        ]
+    },
+    {
+        "componentName": "Chain Assembly",
+        "assemblyPrice": 80,
+        "subComponents":[
+            {
+                "type": "Crank arms",
+                "name": "Simple",
+                "price": 50
+            },
+            {
+                "type": "Pedals",
+                "name": "Medium",
+                "price": 50
+            },
+            {
+                "type": "Chain Rings",
+                "name": "Alloy",
+                "price": 70
+            },
+            {
+                "type": "Chains",
+                "name": "Titanium plated",
+                "price": 90
+            }
+        ]
+    }
+]
+  

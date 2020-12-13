@@ -1,0 +1,234 @@
+[
+    {
+        "componentName": "Frame",
+        "assemblyPrice": 200,
+        "subComponents": [
+            {
+                "type": "Rod",
+                "variants": [
+                    {
+                        "name": "Carbon Fiber",
+                        "price": 70
+                    },
+                    {
+                        "name": "Steel",
+                        "price": 80
+                    },
+                    {
+                        "name": "Aluminum",
+                        "price": 85
+                    },
+                    {
+                        "name": "Titanium",
+                        "price": 74
+                    }
+                ]
+            },
+            {
+                "type": "Design",
+                "variants": [
+                    {
+                        "name": "Circular",
+                        "price": 90
+                    },
+                    {
+                        "name": "Flat",
+                        "price": 100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "componentName": "Seat",
+        "assemblyPrice": 80,
+        "subComponents": [
+            {
+                "type": "Material",
+                "variants": [
+                    {
+                        "name": "Leather",
+                        "price": 70
+                    },
+                    {
+                        "name": "Synthetic",
+                        "price": 60
+                    },
+                    {
+                        "name": "Plastic",
+                        "price": 50
+                    }
+                ]
+            },
+            {
+                "type": "Spring",
+                "variants": [
+                    {
+                        "name": "Stainless Steel",
+                        "price": 40
+                    },
+                    {
+                        "name": "Titanium",
+                        "price": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "componentName": "Wheel",
+        "assemblyPrice": 300,
+        "subComponents": [
+            {
+                "type": "Spoke",
+                "variants": [
+                    {
+                        "name": "Straight Gauge",
+                        "price": 60
+                    },
+                    {
+                        "name": "Bladed",
+                        "price": 65
+                    },
+                    {
+                        "name": "Butted",
+                        "price": 70
+                    }
+                ]
+            },
+            {
+                "type": "Rim",
+                "variants": [
+                    {
+                        "name": "Aluminium",
+                        "price": 90
+                    },
+                    {
+                        "name": "Iron",
+                        "price": 70
+                    }
+                ]
+            },
+            {
+                "type": "Tube",
+                "variants": [
+                    {
+                        "name": "Presta",
+                        "price": 60
+                    },
+                    {
+                        "name": "Schrader",
+                        "price": 70
+                    }
+                ]
+            },
+            {
+                "type": "Tyre",
+                "variants": [
+                    {
+                        "name": "Tubeless",
+                        "price": 120
+                    },
+                    {
+                        "name": "Tubular",
+                        "price": 80
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "componentName": "Handlebar",
+        "assemblyPrice": 200,
+        "subComponents": [
+            {
+                "type": "Brake Levers",
+                "variants": [
+                    {
+                        "name": "V-brake",
+                        "price": 105
+                    },
+                    {
+                        "name": "Disc brake",
+                        "price": 100
+                    },
+                    {
+                        "name": "U-brake",
+                        "price": 90
+                    }
+                ]
+            },
+            {
+                "type": "Ring bell",
+                "variants": [
+                    {
+                        "name": "Round Stainless Steel",
+                        "price": 40
+                    },
+                    {
+                        "name": "Black colored",
+                        "price": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "componentName": "Chain Assembly",
+        "assemblyPrice": 80,
+        "subComponents": [
+            {
+                "type": "Crank arms",
+                "variants": [
+                    {
+                        "name": "Simple",
+                        "price": 50
+                    },
+                    {
+                        "name": "Design in black",
+                        "price": 60
+                    }
+                ]
+            },
+            {
+                "type": "Pedals",
+                "variants": [
+                    {
+                        "name": "Medium",
+                        "price": 50
+                    },
+                    {
+                        "name": "Large",
+                        "price": 60
+                    }
+                ]
+            },
+            {
+                "type": "Chain Rings",
+                "variants": [
+                    {
+                        "name": "Iron",
+                        "price": 40
+                    },
+                    {
+                        "name": "Alloy",
+                        "price": 70
+                    }
+                ]
+            },
+            {
+                "type": "Chains",
+                "variants": [
+                    {
+                        "name": "Aluminum plated",
+                        "price": 80
+                    },
+                    {
+                        "name": "Titanium plated",
+                        "price": 90
+                    }
+                ]
+            }
+        ]
+    }
+]
